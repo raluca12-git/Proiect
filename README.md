@@ -6,7 +6,7 @@
 
 ## Scripturi realizate
 
-### 1. `date_info.sh`
+### 1. `fisier.sh`
 Script care afișează data, ora și spațiul liber pe disc.  
 (./date_info.sh)
 
